@@ -1,0 +1,9 @@
+1. Open registration page
+
+2. Fill out the registration form
+
+3. Click the "Register" button
+
+4. Verify that a successful registration message has appeared
+
+5. Check if the user has been added to the database
